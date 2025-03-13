@@ -35,7 +35,8 @@
 	![Search ValidateConfiguration function](./assets/images/ValidateConfigurationEdited.png)
 	pada fungsi yang telah diedit kita membuat object baru bernama validationResult2 dengan property yang kita inginkan, mengganti beberapa dan mereturnnya.
 
-	7. Done!!, selanjutnya adalah menyimpan semua perubahan dengan cara `File->Save All`  dan klik ok. Enjoyyy . . .
+	
+ 	Done!!, selanjutnya adalah menyimpan semua perubahan dengan cara `File->Save All`  dan klik ok. Enjoyyy . . .
 
 ## How I found this vulnerability 
 #ILCodeReversibility #CodeDecompilationVulnerability
